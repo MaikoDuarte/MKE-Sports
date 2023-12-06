@@ -1,0 +1,9 @@
+[submodule "nlw-eSports-web-ReactJS"]
+	path = nlw-eSports-web-ReactJS
+	url = https://github.com/MaikoDuarte/nlw-eSports-web-ReactJS.git
+[submodule "nlw-eSports-server-NodeJS"]
+	path = nlw-eSports-server-NodeJS
+	url = https://github.com/MaikoDuarte/nlw-eSports-server-NodeJS.git
+[submodule "nlw-eSports-mobile-React-Native"]
+	path = nlw-eSports-mobile-React-Native
+	url = https://github.com/MaikoDuarte/nlw-eSports-mobile-React-Native.git
